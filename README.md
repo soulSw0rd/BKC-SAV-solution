@@ -266,7 +266,7 @@ streamlit run dashboard.py --server.port 8501 --server.address 0.0.0.0
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence GNU. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## Contribution
 
